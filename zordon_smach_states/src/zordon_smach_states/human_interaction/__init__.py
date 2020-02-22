@@ -1,1 +1,1 @@
-from speech import Say
+from .speech import Say

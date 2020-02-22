@@ -1,3 +1,2 @@
-from human_interaction import *
-import human_interaction
-x = 1
+from .human_interaction import *
+from .util import *
