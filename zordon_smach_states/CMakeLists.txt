@@ -13,9 +13,9 @@ find_package(catkin REQUIRED COMPONENTS
   smach_ros
   std_msgs
   zordon_msgs
-  zordon_nlu
-  zordon_stt
-  zordon_tts
+  roboga_nlu
+  roboga_stt
+  roboga_tts
 )
 
 ## System dependencies are found with CMake's conventions
