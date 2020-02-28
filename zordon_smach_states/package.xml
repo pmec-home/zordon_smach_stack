@@ -56,7 +56,7 @@
   <build_depend>zordon_msgs</build_depend>
   <build_depend>roboga_nlu</build_depend>
   <build_depend>roboga_stt</build_depend>
-  <build_depend>robga_tts</build_depend>
+  <build_depend>roboga_tts</build_depend>
   <build_export_depend>rospy</build_export_depend>
   <build_export_depend>smach</build_export_depend>
   <build_export_depend>smach_ros</build_export_depend>
